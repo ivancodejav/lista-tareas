@@ -1,6 +1,6 @@
 # ✅ Lista de Tareas
-
-Una aplicación web simple para gestionar tus tareas diarias. Permite:
+la puedes ver desde https://ivancodejav.github.io/lista-tareas/ <br>
+Una aplicación web simple para gestionar tus tareas diarias. Permite: 
 
 - Agregar tareas con título y descripción
 - Editar tareas existentes
